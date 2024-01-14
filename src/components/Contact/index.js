@@ -146,7 +146,8 @@ const Contact = () => {
       <Wrapper>
         <Title>Contact</Title>
         <Desc>Feel free to reach out to me for any questions or opportunities!</Desc>
-        <ContactForm ref={form} onSubmit={handleSubmit}>
+        <Desc>Contact at shristichandrakar7@gmail.com</Desc>
+        {/* <ContactForm ref={form} onSubmit={handleSubmit}>
           <ContactTitle>Email Me 🚀</ContactTitle>
           <ContactInput placeholder="Your Email" name="from_email" />
           <ContactInput placeholder="Your Name" name="from_name" />
@@ -160,7 +161,7 @@ const Contact = () => {
           onClose={()=>setOpen(false)}
           message="Email sent successfully!"
           severity="success"
-        />
+        /> */}
       </Wrapper>
     </Container>
   )

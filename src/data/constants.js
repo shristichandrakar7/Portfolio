@@ -91,6 +91,31 @@ export const skills = [
     ],
   },
   {
+    title: "Machine Learning",
+    skills: [
+      {
+        name: "Natural Language Processing(NLP)",
+        image:
+          "https://thumbs.dreamstime.com/b/nlp-letter-technology-logo-design-white-background-creative-initials-concept-253007998.jpg",
+      },
+      {
+        name: "Large language models (LLMs)",
+        image:
+          "https://static.vecteezy.com/system/resources/previews/010/214/734/original/llm-letter-technology-logo-design-on-white-background-llm-creative-initials-letter-it-logo-concept-llm-letter-design-vector.jpg",
+      },
+      {
+        name: "TensorFlow",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png",
+      },
+      {
+        name: "Neural Networks(CNN, RNN)",
+        image:
+          "https://www.shutterstock.com/shutterstock/photos/1742110256/display_1500/stock-vector-neural-network-logo-human-brain-emblem-artificial-intelligence-icon-creative-thinking-vector-1742110256.jpg",
+      }
+    ],
+  },
+  {
     title: "Others",
     skills: [
       {
