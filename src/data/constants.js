@@ -147,7 +147,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+    img: "https://media.licdn.com/dms/image/D5603AQHlAeoysSt…eta&t=jwUr5DosAnp980QqqppT5E1LhMxzbqIfGtxi8nW_Vys",
     school: "Government Engineering College, Raipur",
     date: "Apr 2017 - Apr 2021",
     grade: "8.3 CGPA",
