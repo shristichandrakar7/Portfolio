@@ -120,7 +120,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://en.wikipedia.org/wiki/National_Institute_of_Technology_Karnataka#/media/File:NITK_Emblem.png",
+    img: "https://static.vecteezy.com/system/resources/previews/020/336/451/original/infosys-logo-infosys-icon-free-free-vector.jpg",
     role: "System Engineer(Oracle PL/SQL Developer)",
     company: "Infosys Pvt. Ltd.",
     date: "Dec 2021 - May 2023",
@@ -160,7 +160,6 @@ export const projects = [
   {
     id: 0,
     title: "Podstream",
-    date: "Apr 2023 - May 2023",
     description:
       "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
     image:
@@ -173,7 +172,6 @@ export const projects = [
   {
     id: 1,
     title: "Social Media App: SnapGram",
-    date: "Oct 2022 - Present",
     description:
       "Developed a feature-rich full-stack web app using React.js, Tailwind CSS for styling, and Appwrite to ensure seamless user authentication, secure data management, and file storage, establishing a robust and secure backend infrastructure. Integrated Appwrite services and optimized data operations through React Query, contributing to the development of a high-performance web application.Email: testing@gmail.com Password:12345678",
     image:
@@ -188,7 +186,6 @@ export const projects = [
   {
     id: 2,
     title: "Covid Affected Lung Segmentation and Classification using CT Scan Images",
-    date: "Jan 2023 - Mar 2023",
     description:
       "– Utilized advanced evaluation techniques to gauge the effectiveness of the Lung Segmentation Model, resulting in remarkable dice-coefficient values of 0.8370 and a validation-dice-coefficient of 0.8297. The Infection Segmentation Model was evaluated on different parameters achieving dice-coefficient value of 0.8217 and validation-dice-coefficient of 0.7821.",
     image:
@@ -200,7 +197,6 @@ export const projects = [
   {
     id: 3,
     title: "Stock Market Prediction And Forecasting using Stacked LSTM",
-    date: "Dec 2021 - Apr 2022",
     description:
       "Successfully developed and implemented a predictive model using Long Short-Term Memory (LSTM) neural networks for forecasting Apple Inc. (AAPL) stock prices. Evaluated model’s RMSE as 224.20 for training and 163.37 for testing. Extended the project’s scope by applying the trained model to predict AAPL stock prices for the next 30 days.",
     image:
@@ -212,9 +208,8 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2020, text: "Shared my projects with the world" },
-  { year: 2021, text: "Started my own platform" },
+  { year: 2017, text: "Started my Btech Journey" },
+  { year: 2021, text: "Worked as a System Engineer in Infosys." },
+  { year: 2022, text: "Started my Masters in Data Science" },
+  { year: 2023, text: "Worked with many projects" },
 ];
