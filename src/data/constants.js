@@ -138,7 +138,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://ibb.co/t2R5chr",
+    img: "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/NITK_Emblem.png/320px-NITK_Emblem.png",
     school: "National Institute of Technology, Karnataka",
     date: "Aug 2022 - July 2024",
     grade: "7.28 CGPA",
@@ -148,11 +148,11 @@ export const education = [
   {
     id: 1,
     img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
-    school: "Methodist School, Dankuni",
-    date: "Apr 2019 - Apr 2025",
-    grade: "88.2%",
-    desc: "I completed my class 12 high school education at Methodist School, Dankuni, where I studied Science with Computer Science.",
-    degree: "ISC(XII), Science with Computer",
+    school: "Government Engineering College, Raipur",
+    date: "Apr 2017 - Apr 2021",
+    grade: "8.3 CGPA",
+    desc: "",
+    degree: "Bachelor of Technology - BTech, Electrical & Electronics Engineering",
   }
 ];
 
