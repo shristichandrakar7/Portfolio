@@ -138,7 +138,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://lh3.googleusercontent.com/proxy/K3-X4ymt9Q_mbJiHMXlXMUpux5G1hhkvlYRQKLr-fR1MuN2ppiw9g_kYsV0",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPZ4uDpqXh6nPKxnNWBAIJNrPcfSQuC5KG04YZ08o56g&s",
     school: "National Institute of Technology, Karnataka",
     date: "Aug 2022 - July 2024",
     grade: "7.28 CGPA",
@@ -147,7 +147,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://media.licdn.com/dms/image/D5603AQHlAeoysSteta&t=UXpToQ3DWOeiQePK06mj0FZQfmciuRyzxMtIgEp4b3o",
+    img: "https://media.collegedekho.com/media/img/institute/logo/gec.jpeg",
     school: "Government Engineering College, Raipur",
     date: "Apr 2017 - Apr 2021",
     grade: "8.3 CGPA",
@@ -157,31 +157,6 @@ export const education = [
 ];
 
 export const projects = [
-  {
-    id: 9,
-    title: "Trackify",
-    date: "Jun 2023 - Jul 2023",
-    description:
-      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
-    image:
-      "https://dfzljdn9uc3pi.cloudfront.net/2021/cs-349/1/fig-15-full.png",
-    tags: [
-      "Docker",
-      "AWS",
-      "DuckDNS",
-      "Eslint",
-      "Husky",
-      "CI/CD",
-      "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "Redux",
-    ],
-    category: "web app",
-    github: "https://github.com/rishavchanda/Trackify",
-    webapp: "https://trackify.duckdns.org",
-  },
   {
     id: 0,
     title: "Podstream",
@@ -229,11 +204,10 @@ export const projects = [
     description:
       "Successfully developed and implemented a predictive model using Long Short-Term Memory (LSTM) neural networks for forecasting Apple Inc. (AAPL) stock prices. Evaluated model’s RMSE as 224.20 for training and 163.37 for testing. Extended the project’s scope by applying the trained model to predict AAPL stock prices for the next 30 days.",
     image:
-      "https://camo.githubusercontent.com/fbf405040ae86b5d4a40f24e4ac034982cb8c0e2d850560ba64527997b258be8/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6c6f67696e2d65613565322e61707073706f742e636f6d2f6f2f4255434b4f49442532302831292e706e673f616c743d6d6564696126746f6b656e3d32653735376235372d323964372d346263612d613562322d653164346538313432373435",
+      "https://cdnlearnblog.etmoney.com/wp-content/uploads/2023/02/investing-at-market-high-1.jpg",
     tags: ["RNN","Natural Language Processing(NLP)","LSTM"],
     category: "machine learning",
-    github: "https://github.com/rishavchanda/Buckoid-Android-App",
-    webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
+    github: "https://github.com/shristichandrakar7/Stock_Market_Prediction_And_Forecasting_using_stacked_LSTM",
   },
 ];
 
