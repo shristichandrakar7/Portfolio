@@ -10,7 +10,7 @@ export const Bio = {
   github: "https://github.com/shristichandrakar7",
   resume:
     "https://drive.google.com/file/d/1_as4tJLIyFq27tgcphHOOFOdiHDgFGzo/view?usp=drive_link",
-  linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+  linkedin: "https://www.linkedin.com/in/shristichandrakar/",
 };
 
 export const skills = [
@@ -138,7 +138,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/NITK_Emblem.png/320px-NITK_Emblem.png",
+    img: "https://lh3.googleusercontent.com/proxy/K3-X4ymt9Q…_mbJiHMXlXMUpux5G1hhkvlYRQKLr-fR1MuN2ppiw9g_kYsV0",
     school: "National Institute of Technology, Karnataka",
     date: "Aug 2022 - July 2024",
     grade: "7.28 CGPA",
@@ -147,7 +147,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://media.licdn.com/dms/image/D5603AQHlAeoysSt…eta&t=jwUr5DosAnp980QqqppT5E1LhMxzbqIfGtxi8nW_Vys",
+    img: "https://media.licdn.com/dms/image/D5603AQHlAeoysSt…eta&t=UXpToQ3DWOeiQePK06mj0FZQfmciuRyzxMtIgEp4b3o",
     school: "Government Engineering College, Raipur",
     date: "Apr 2017 - Apr 2021",
     grade: "8.3 CGPA",
